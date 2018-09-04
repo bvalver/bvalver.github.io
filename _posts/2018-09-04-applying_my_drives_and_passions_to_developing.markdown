@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Applying My Drives and Passions to Developing"
-date:       2018-09-04 16:13:39 +0000
+date:       2018-09-04 12:13:40 -0400
 permalink:  applying_my_drives_and_passions_to_developing
 ---
 
